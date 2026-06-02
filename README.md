@@ -1,10 +1,10 @@
-# 📦 Sistema de Gerenciamento de Produtos
+# Sistema de Gerenciamento de Produtos
 
 Sistema de gerenciamento de produtos via terminal desenvolvido em **PHP puro**, sem frameworks ou bibliotecas externas. Os dados são persistidos em um arquivo `.json` local.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - **Cadastrar** produto com nome, preço, descrição e quantidade
 - **Listar** todos os produtos cadastrados
@@ -15,7 +15,7 @@ Sistema de gerenciamento de produtos via terminal desenvolvido em **PHP puro**, 
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 Projeto PHP/
@@ -34,7 +34,7 @@ Projeto PHP/
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 ### Pré-requisitos
 
@@ -51,14 +51,14 @@ php index.php
 
 ---
 
-## 🛠️ Tecnologias
+## O que foi utilizado?
 
 - PHP 8.0+ puro (sem frameworks)
 - JSON como banco de dados local
 
 ---
 
-## 📌 Observações
+## Observações
 
 - Projeto desenvolvido para fins de aprendizado de PHP CLI
 - Todos os dados são salvos localmente no arquivo `DB/produtos.json`
